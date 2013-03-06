@@ -9,8 +9,8 @@ I wanted to add Flat UI to it, and took a bit of inspiration from it for a few e
 
 ## List of things I want to do
 
-- [] SASSify the skeleton part
-- [] Work out a few kinks of the skeleton grib for mobile (work on Iphone, not so well on android)
+- [ ] SASSify the skeleton part
+- [ ] Work out a few kinks of the skeleton grib for mobile (work on Iphone, not so well on android)
 
 ## Disclaimer
 
